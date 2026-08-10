@@ -1,4 +1,5 @@
 # MazeMunchers
+<img width="2852" height="1739" alt="image" src="https://github.com/user-attachments/assets/202e78ad-08c6-444d-abcb-b73b61579d42" />
 
 MazeMunchers is a 2D Pac-Man-style game developed in Unity using C#. The game features maze-based movement, enemy AI, collectible-based scoring and persistent high scores.
 
